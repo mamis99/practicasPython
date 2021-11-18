@@ -1,4 +1,4 @@
-#Año bisiesto
+#Año bisiesto con un solo if
 year = input("Ingresa el año: ")
 try:
     int(year)
